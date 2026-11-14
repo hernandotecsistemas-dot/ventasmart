@@ -1,0 +1,8 @@
+{
+  "name": "VentaSmart",
+  "description": "Sistema empresarial de administración comercial, punto de venta POS, clientes, inventario, pagos, comprobantes internos y reportes con PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
